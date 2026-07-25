@@ -88,8 +88,6 @@ class About(AIEngineer):
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ali-raafat-33&show_icons=true&theme=blue-green&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-raafat-33&layout=compact&theme=blue-green&hide_border=true" width="45%"/>
 
 <br>
 
