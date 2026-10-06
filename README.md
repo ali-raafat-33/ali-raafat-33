@@ -73,22 +73,6 @@
 ![Arabic](https://img.shields.io/badge/Arabic-2a5298?style=flat-square&logoColor=white)
 ![English](https://img.shields.io/badge/English-2a5298?style=flat-square&logoColor=white)
 
-```python
-class About(AIEngineer):
-    def __init__(self):
-        self.role = "AI / Machine Learning Engineer"
-        self.focus = ["Computer Vision", "NLP", "Deep Learning", "LLMs"]
-        self.currently_building = ["AI Agents", "RAG Pipelines", "Multi-Agent Systems"]
-        self.languages = ["Arabic", "English"]
-        self.motto = "Fine-tune the model, not the excuses."
-```
-
-<hr>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
 
 <br>
 
